@@ -2,7 +2,7 @@
 
 int main(){
     int rahib;
-    scanf("amak daw %d",&rahib);
+    scanf(" %d",&rahib);
     printf("%d",rahib);
 
     return 0;
